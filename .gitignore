@@ -28,6 +28,7 @@
 *.lib
 
 # Executables
+*.exe
 *.out
 *.app
 
@@ -39,7 +40,6 @@
 
 # 추가로 무시하는 파일
 *.vcxproj
-*.sln
 *.filters
 *.user
 
